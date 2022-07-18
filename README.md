@@ -1,5 +1,7 @@
 # GCP-Notes
 
+
 ## Cloud Inter connect/peering
--Internconnect
+###Direct Peering 
+-   Dedicated test
 
